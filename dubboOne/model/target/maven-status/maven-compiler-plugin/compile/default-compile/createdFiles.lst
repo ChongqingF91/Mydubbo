@@ -1,0 +1,5 @@
+com\debug\liang\dubbo\one\model\mapper\OrderRecordMapper.class
+com\debug\liang\dubbo\one\model\mapper\ItemInfoMapper.class
+com\debug\liang\dubbo\one\model\entity\ItemInfo.class
+com\debug\liang\dubbo\one\model\entity\OrderRecord.class
+com\debug\liang\dubbo\one\model\Main.class
