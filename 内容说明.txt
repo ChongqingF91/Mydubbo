@@ -1,0 +1,8 @@
+该项目为主要使用spring boot , mybatis，zookeeper，dubbo，okhttp。而搭建的web商城查询下单服务，
+
+文件排序规制方面秉持着低耦合高内聚，这主要是方便单元测试，和后期修改内容。
+
+lombok注释类，数值传递采取map传递数值。posh抛出数据。采取okhttp获取请求。
+
+
+
